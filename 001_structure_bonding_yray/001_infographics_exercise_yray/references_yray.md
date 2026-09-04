@@ -14,7 +14,6 @@ National Center for Biotechnology Information. (n.d.). *Geosmin* (PubChem CID 29
 
 Jüttner, F., & Watson, S. B. (2007). Biochemical and ecological control of geosmin and 2‑methylisoborneol in source waters. *Applied and Environmental Microbiology, 73*(14), 4395–4406. https://doi.org/10.1128/AEM.02929-06
 
-Watson, S. B. (2003). Cyanobacterial and geosmin compounds in water: Taste and odour compounds. *Water Research*. *(Insert exact volume, issue, and pages from the actual article you used.)*
 
 ---
 
