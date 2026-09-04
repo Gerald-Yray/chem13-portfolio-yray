@@ -1,0 +1,25 @@
+AI Use Disclosure
+
+AI Tools Used: ChatGPT (GPT-5.6 Luna) and OpenAI Image Generation
+
+1. Dopamine
+
+ChatGPT: Used to verify chemical identity, structure, properties, biological functions, receptor activity, medical uses, risks, and chemical engineering relevance. ChatGPT also recommended avoiding the oversimplified “pleasure molecule” description, correcting the tyrosine → L-DOPA → dopamine pathway, and clarifying dopamine hydrochloride’s medical use.
+
+OpenAI Image Generation: Used to create the infographic design, molecular structure, biochemical pathway, receptor comparison, and supporting visuals.
+
+2. Geosmin
+
+ChatGPT: Used to verify geosmin chemical identity, properties, earthy odor, natural sources, environmental significance, and water-treatment relevance. ChatGPT also recommended keeping the explanations concise and focusing the infographic on geosmin structure, source, odor, environmental impact, and chemical engineering applications.
+
+OpenAI Image Generation: Used to create the infographic design and supporting visuals. The design was recommended to use green and brown as the main colors, limited blue, and minimal pictures for better readability.
+
+3. Chitin
+
+ChatGPT: Used to verify chitin’s structure, properties, natural sources, extraction process, conversion to chitosan, applications, environmental concerns, and chemical engineering relevance. ChatGPT recommended using “The Structural Biopolymer of Nature” instead of limiting chitin to marine ecosystems, correcting the explanation of its solubility, and presenting the extraction process as shell waste → demineralization → deproteinization → chitin → chitosan.
+
+OpenAI Image Generation: Used to create the infographic design, polymer structure, extraction flow, chitin-to-chitosan pathway, and supporting visuals. ChatGPT recommended using **only three colors, minimal pictures, and short readable sections.
+
+Overall AI Use
+
+AI was used for accuracy checking, content organization, recommendations for wording and layout, and infographic generation. The recommendations were used to improve the scientific accuracy, readability, visual organization, and overall presentation of the three infographics.
