@@ -12,7 +12,7 @@ U.S. National Library of Medicine. (n.d.). *Dopamine hydrochloride injection* \[
 
 National Center for Biotechnology Information. (n.d.). *Geosmin* (PubChem CID 29746). PubChem. https://pubchem.ncbi.nlm.nih.gov/compound/29746
 
-Jüttner, F., & Watson, S. B. (2007). Biochemical and ecological control of geosmin and 2‑methylisoborneol in source waters. *Applied and Environmental Microbiology, 73*(14), 4395–4406. https://doi.org/10.1128/aem.02929-06
+JüTtner, F., & Watson, S. B. (2007b). Biochemical and ecological control of geosmin and 2-Methylisoborneol in source waters. Applied and Environmental Microbiology, 73(14), 4395–4406. https://doi.org/10.1128/aem.02250-06
 
 
 ---
