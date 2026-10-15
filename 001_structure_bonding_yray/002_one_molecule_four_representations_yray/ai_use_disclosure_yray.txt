@@ -1,0 +1,5 @@
+AI Use Disclosure
+
+AI Tool Used: ChatGPT (GPT-5.6 Luna)
+
+ChatGPT was used to identify relevant online links, databases, and structural references. These sources guided the preparation and verification of the molecular formula, Lewis structure, condensed molecular formula, and bond-line formula of each compound evaluated. AI-generated information served only as an external reference and cross-check; all final chemical representations and structural drawings were independently reviewed and verified
