@@ -1,0 +1,23 @@
+AI Use Disclosure
+
+Tool Name: Claude AI
+
+
+I used Claude as a supplementary learning and technical guidance tool, consistent with the CHEM 13 syllabus. Its use was limited to the following tasks:
+
+Concept Clarification: 
+I used Claude to clarify IUPAC nomenclature rules, particularly parent chain and ring selection. This included understanding why A10 differs between my lecture slide (the parent is whichever part has more carbons) and this activity's 2013 IUPAC convention (the ring is the parent).
+
+Software Familiarization:
+I consulted Claude to understand how to use The Alkane web application, particularly its structure-drawing interface, its basic functions, and how to capture clean, cropped screenshots, following Appendix C of the activity guidelines.
+
+
+Mismatch Explanation: 
+I used Claude to help me understand and word the explanations of the mismatches recorded on my cards (A10 and B10), including the IUPAC rule involved in each.
+
+
+INDEPENDENT VERIFICATION & ETHICAL COMPLIANCE
+
+I reviewed all AI-assisted content against the IUPAC rules in Appendix B of the activity guidelines and rewrote the naming trails and explanations on the cards in my own words. I re-traced each structure myself, recounting the longest chain or ring, comparing numbering from both directions, and checking alphabetical order, punctuation and molecular formulas.
+
+I take full responsibility for the accuracy of the names, structures, explanations and the final digital portfolio submitted in this activity.
